@@ -1,4 +1,4 @@
-# 🚀 RBK DIGITAL - Marketing Radical
+# 🚀 RBK DIGITAL - Marketing Digital
 
 ![RBK Digital Banner](assets/images/rbk-digital-banner.svg)
 
@@ -10,7 +10,7 @@ Bienvenido al repositorio oficial de la Landing Page de **RBK DIGITAL**. Este pr
 
 ## ✨ Características Principales
 
-*   **🎨 Diseño "Marketing Radical"**: Una estética audaz en modo oscuro (#0a0a0a) con acentos neón (Magenta, Cian, Púrpura) y efectos de **Glassmorphism**.
+*   **🎨 Diseño "Marketing Digital"**: Una estética audaz en modo oscuro (#0a0a0a) con acentos neón (Magenta, Cian, Púrpura) y efectos de **Glassmorphism**.
 *   **📱 Totalmente Responsivo**: Adaptado perfectamente para móviles, tablets y escritorio.
 *   **⚡ Alto Rendimiento**: Animaciones fluidas mediante `IntersectionObserver` y carga optimizada.
 *   **💬 Integración con WhatsApp**: 
