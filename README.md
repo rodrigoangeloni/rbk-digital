@@ -1,6 +1,6 @@
 # 🚀 RBK DIGITAL - Marketing Radical
 
-![RBK Digital Banner](https://via.placeholder.com/1200x300/0a0a0a/ff00cc?text=RBK+DIGITAL+-+MARKETING+RADICAL)
+![RBK Digital Banner](assets/images/rbk-digital-banner.svg)
 
 > **"Estrategia, crecimiento y éxito digital."**
 
